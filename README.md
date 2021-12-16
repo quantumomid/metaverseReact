@@ -1,4 +1,12 @@
-# Next.js + Tailwind CSS Example
+# Metaverse Project
+
+A small React project with the Next.js framework using TailwindCSS for styling. 
+
+Web3: Moralis and MetaMask are also used for allowing users to authenticating with their blockchain wallet. 
+
+Visit the deployed app at: [Metaverse-React](https://metaverse-react.vercel.app/).
+
+## Next.js + Tailwind CSS Example
 
 This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.0)](https://tailwindcss.com/blog/tailwindcss-v3) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
 

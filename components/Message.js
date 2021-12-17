@@ -8,7 +8,7 @@ const Message = ({ message }) => {
     const isUserMessage = message.get("ethAddress") === user.get("ethAddress");
 
     return (
-        <div className={`flex items-end space-x-2 relative ${
+        <article className={`flex items-end space-x-2 relative ${
             isUserMessage && "justify-end"
             }`}
         >
@@ -34,7 +34,7 @@ const Message = ({ message }) => {
             <p className={`absolute -bottom-5 text-xs ${
                 isUserMessage ? "text-pink-300" : "text-blue-400"
             }`}>{ message.get("username") }</p>
-        </div>
+        </article>
     )
 }
 

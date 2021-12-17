@@ -6,12 +6,13 @@ import ChangeUsername from "./ChangeUsername";
 const Header = () => {
     const { user } = useMoralis();
     return (
-        <div className="sticky top-0 p-5 z-50 bg-black text-pink-500 shadow-sm border-b-2 border-pink-700">
+        <header className="sticky top-0 p-5 z-50 bg-black text-pink-500 shadow-sm border-b-2 border-pink-700">
             <div className="grid grid-cols-5 lg:grid-cols-6 items-end lg:items-center">
                 <div className="relative h-24 w-24 mx-auto hidden lg:inline-grid">
                     <Image 
                         className="rounded-full"
                         src="/loginImage.jpg"
+                        alt="Sideways headshot of a young man with a beard in a x-ray like style"
                         layout="fill"
                         objectFit="cover"
                     />
@@ -25,7 +26,7 @@ const Header = () => {
                     <ChangeUsername />
                 </div>
             </div>
-        </div>
+        </header>
     )
 }
 

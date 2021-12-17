@@ -14,6 +14,7 @@ Visit the deployed (with [Vercel](https://vercel.com)) app at: [Metaverse-React]
 - Tailwind
 - Moralis
 - [timeago-react](https://www.npmjs.com/package/timeago-react)
+- [Metamask Chrome Extension](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn?hl=en) - Needed for login
 
 
 ## Next.js + Tailwind CSS Example

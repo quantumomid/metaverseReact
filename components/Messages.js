@@ -17,7 +17,7 @@ const Messages = () => {
         );
         // console.log(data);
     return (
-        <div className="pb-56">
+        <main className="pb-56">
             <div className="my-5">
                 <ByMoralis variant="dark" style={{ marginLeft: "auto", marginRight: "auto" }} />
             </div>
@@ -33,7 +33,7 @@ const Messages = () => {
             <div ref={endOfMessagesRef} className="text-center text-gray-400 mt-5">
                 <p>You're up to date { user.getUsername() }! 🎉</p>
             </div>
-        </div>
+        </main>
     )
 }
 

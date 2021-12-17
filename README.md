@@ -1,8 +1,8 @@
-# Metaverse Project
+# Metaverse Project - DApp 🚀
 
-A small React project with the Next.js framework using TailwindCSS for styling. 
+DApp chat application made with the Next.js (React) framework using TailwindCSS for styling. 
 
-Web3: Moralis and MetaMask are also used for allowing users to authenticating with their blockchain wallet. 
+Web3: Moralis and MetaMask are also used for allowing users to authenticating with their blockchain wallet- and handling the app's chat messages storage. 
 
 Visit the deployed app at: [Metaverse-React](https://metaverse-react.vercel.app/).
 

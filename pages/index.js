@@ -10,7 +10,7 @@ export default function Home() {
   if(!isAuthenticated) return <Login />;
 
   return (
-    <div className="h-screen overflow-y-scroll bg-gradient-to-b from-black to-fuchsia-900 overflow-y-hidden">
+    <div className="h-screen overflow-y-scroll bg-gradient-to-b from-black to-fuchsia-900">
       <Head>
         <title>Metaverse Challenge</title>
       </Head>

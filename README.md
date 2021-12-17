@@ -9,17 +9,12 @@ Visit the deployed (with [Vercel](https://vercel.com)) app at: [Metaverse-React]
 
 ## Packages used
 
-- Next.js
-- React
-- Tailwind
-- Moralis
+- [Next.js](https://nextjs.org/)
+- [React](https://reactjs.org/)
+- [Tailwind](https://tailwindcss.com/)
+- [Moralis](https://moralis.io/) - [react-moralise](https://docs.moralis.io/moralis-server/tools/react-moralis)
 - [timeago-react](https://www.npmjs.com/package/timeago-react)
 - [Metamask Chrome Extension](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn?hl=en) - Needed for login
-
-
-## Next.js + Tailwind CSS Example
-
-This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.0)](https://tailwindcss.com/blog/tailwindcss-v3) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
 
 
 ## How to use

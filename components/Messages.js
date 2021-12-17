@@ -15,14 +15,11 @@ const Messages = () => {
         [],
         { live: true, },
         );
-        console.log(data);
+        // console.log(data);
     return (
         <div className="pb-56">
             <div className="my-5">
                 <ByMoralis variant="dark" style={{ marginLeft: "auto", marginRight: "auto" }} />
-            </div>
-            <div>
-                {/* Messages */}
             </div>
 
             <div className="space-y-10 p-4">
